@@ -147,7 +147,7 @@ ul.links, .links a {
 .links li::after {
     content: ' ';
     position: absolute;
-    background-image: url('/assets/images/arrow.svg');
+    background-image: url('../images/arrow.svg');
     background-repeat: no-repeat;
     background-size: 1.25em;
     height: 1.25em;
@@ -174,7 +174,7 @@ h3 {
 h3::before {
     content: ' ';
     position: absolute;
-    background-image: url('/assets/images/location.svg');
+    background-image: url('../images/location.svg');
     background-repeat: no-repeat;
     background-size: 1.0em;
     height: 1.5em;
@@ -197,7 +197,7 @@ h4 {
 h4::before {
     content: ' ';
     position: absolute;
-    background-image: url('/assets/images/star.svg');
+    background-image: url('../images/star.svg');
     background-repeat: no-repeat;
     background-size: 1.0em;
     height: 2.0em;
